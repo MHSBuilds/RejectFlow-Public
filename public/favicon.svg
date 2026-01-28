@@ -1,0 +1,17 @@
+<svg width="32" height="32" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Red X with breaking effect on upper left -->
+  <path d="M12 12 L28 28" stroke="#DC2626" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M28 12 L12 28" stroke="#DC2626" stroke-width="3.5" stroke-linecap="round"/>
+  
+  <!-- Breaking fragments scattering from upper left -->
+  <rect x="8" y="6" width="3" height="3" fill="#DC2626" opacity="0.8" transform="rotate(45 9.5 7.5)"/>
+  <rect x="6" y="9" width="2.5" height="2.5" fill="#DC2626" opacity="0.7" transform="rotate(45 7.25 10.25)"/>
+  <rect x="9" y="4" width="2" height="2" fill="#DC2626" opacity="0.6" transform="rotate(45 10 5)"/>
+  
+  <!-- Dark blue checkmark overlapping the X -->
+  <path d="M14 18 L18 22 L26 12" stroke="#1E40AF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  
+  <!-- Light blue flowing arrow from bottom left upward -->
+  <path d="M10 32 Q18 24 22 20" stroke="#3B82F6" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <path d="M20 22 L22 18 L24 22" stroke="#3B82F6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>

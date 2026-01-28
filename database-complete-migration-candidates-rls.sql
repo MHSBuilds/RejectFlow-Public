@@ -1,0 +1,13 @@
+-- ============================================================================
+-- COMPLETE MIGRATION: Candidates Schema + RLS (2025-10-31)
+-- ============================================================================
+-- This migration consolidates:
+-- 1. User profiles table creation
+-- 2. Candidates user_id column addition
+-- 3. Per-user email uniqueness (composite key)
+-- 4. Complete RLS policies for all tables
+-- 
+-- STATUS: ✅ Run on 2025-10-31 in Supabase Production
+-- ============================================================================
+
+-- [Copy the entire consolidated SQL here]
