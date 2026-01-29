@@ -224,7 +224,7 @@ npm run build
 - Check that your IP is in Supabase firewall whitelist
 - Test connection via Supabase dashboard
 
-## Roadmap
+## Roadmap for Paid Customers
 
 - [ ] Webhook integrations for ATS systems
 - [ ] Advanced email template customization
@@ -242,15 +242,9 @@ Contributions welcome! Please:
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## Support
-
-- 📧 Email: support@rejectflow.app
-- 💬 [GitHub Issues](https://github.com/MHSBuilds/RejectFlow-Public/issues)
-- 📖 [Documentation](./docs)
-
 ## License
 
-MIT License - see [LICENSE](./LICENSE) file for details.
+MIT License
 
 ## Acknowledgments
 
@@ -262,4 +256,3 @@ MIT License - see [LICENSE](./LICENSE) file for details.
 ---
 
 **Made with ❤️ by the RejectFlow team**
-
