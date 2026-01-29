@@ -202,7 +202,7 @@ Response:
 }
 ```
 
-See full [API Documentation](./docs/api.md) for complete reference.
+See full API Documentation under the API Docs page for complete reference. This page can be found once signed in to the application.
 
 ## Troubleshooting
 
@@ -256,3 +256,4 @@ MIT License
 ---
 
 **Made with ❤️ by the RejectFlow team**
+
