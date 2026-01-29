@@ -45,8 +45,8 @@ RejectFlow automates the rejection email process by:
 
 ```bash
 # Clone repository
-git clone https://github.com/MHSBuilds/RejectFlow.git
-cd RejectFlow
+git clone https://github.com/MHSBuilds/RejectFlow-Public.git
+cd RejectFlow-Public
 
 # Install dependencies
 npm install
@@ -245,7 +245,7 @@ Contributions welcome! Please:
 ## Support
 
 - 📧 Email: support@rejectflow.app
-- 💬 [GitHub Issues](https://github.com/MHSBuilds/RejectFlow/issues)
+- 💬 [GitHub Issues](https://github.com/MHSBuilds/RejectFlow-Public/issues)
 - 📖 [Documentation](./docs)
 
 ## License
@@ -262,3 +262,4 @@ MIT License - see [LICENSE](./LICENSE) file for details.
 ---
 
 **Made with ❤️ by the RejectFlow team**
+
